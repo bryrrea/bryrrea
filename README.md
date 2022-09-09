@@ -40,33 +40,13 @@ I'm a Biochemical Engineer that love Data Analysis and programming.&nbsp;
 </details>&nbsp;
 
 <details><summary><strong>What am I reading now?</strong></summary>  
-<style>
-    #books {
-        display: flex;
-        justify-content: center;
-    }
-    .books img {
-        width: 200px;
-    }
-    figure {
-        text-align: center;
-    }
-    .icons {
-        display: flex;
-        justify-content: space-evenly;
-        padding: 5px;
-    }
-    .icons img {
-        width: 64px;
-    }
-</style>
-    <div id="books">
-        <figure class="books">
-            <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443109083i/25489185._UY400_SS400_.jpg" alt= "Summit Lake - Charles Donlea"/>
+    <div style="display: flex; justify-content: center">
+        <figure>
+            <img src="src/book1.png" alt= "Summit Lake - Charles Donlea" style="width: 200px;" />
             <figcaption styles="text-align: center;">Chapter 26</figcaption>
         </figure>
-        <figure class="books">
-            <img src="https://images-na.ssl-images-amazon.com/images/I/71NfLbMEVrL._AC_UL600_SR600,600_.jpg" alt= "Confident Data Skills - Kirill Eremenko" />
+        <figure>
+            <img src="src/book2.png" alt= "Confident Data Skills - Kirill Eremenko" alt="Confident Data Skills" style="width: 200px;"/>
             <figcaption styles="text-align: center;">Chapter 2</figcaption>
         </figure>
     </div>
