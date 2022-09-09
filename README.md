@@ -40,13 +40,13 @@ I'm a Biochemical Engineer that love Data Analysis and programming.&nbsp;
 </details>&nbsp;
 
 <details><summary><strong>What am I reading now?</strong></summary>  
-    <div style="display: flex; justify-content: center">
-        <figure style="text-align: center">
-            <img src="src/book1.png" alt= "Summit Lake - Charles Donlea" style="width: 200px;" />
+    <div style="display: flex;">
+        <figure style="text-align:center; flex:1;">
+            <img src="src/book1.png" alt= "Summit Lake - Charles Donlea" width="200px"/>
             <figcaption styles="text-align: center;">Chapter 26</figcaption>
         </figure>
-        <figure style="text-align: center">
-            <img src="src/book2.png" alt= "Confident Data Skills - Kirill Eremenko" alt="Confident Data Skills" style="width: 200px;"/>
+        <figure style="text-align:center; flex:1">
+            <img src="src/book2.png" alt= "Confident Data Skills - Kirill Eremenko" alt="Confident Data Skills" width="200px"/>
             <figcaption styles="text-align: center;">Chapter 2</figcaption>
         </figure>
     </div>
@@ -65,34 +65,34 @@ I'm a Biochemical Engineer that love Data Analysis and programming.&nbsp;
 
 <details><summary><strong>Techs and tools I know something</strong></summary>  
     <div class="icons">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width=64px/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width=64px/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width=64px/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width=64px/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width=64px/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="64px"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="64px"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="64px"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="64px"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="64px"/>
     </div>
     <div class="icons">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="Matlab" width=64px/>
-        <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/octave_94226.png" alt="Octave" alt="Octave" width=64px/>
-        <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/scilab_104094.png" alt="Scilab" alt="Scilab" width=64px/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width=64px/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" alt="Inkscape" width=64px/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="Matlab" width="64px"/>
+        <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/octave_94226.png" alt="Octave" alt="Octave" width="64px"/>
+        <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/scilab_104094.png" alt="Scilab" alt="Scilab" width="64px"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="64px"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" alt="Inkscape" width="64px"/>
     </div>
 
 </details>&nbsp;
 
 <details><summary><strong>Techs and tools I'm studying</strong></summary>  
     <div class="icons">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width=64px />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width=64px />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width=64px />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width=64px />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="64px"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="64px"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="64px"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="64px"/>
     </div>
     <div class="icons">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width=64px />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Github" width=64px />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width=64px />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width=64px />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="64px"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Github" width="64px"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="64px"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="64px"/>
     </div>
 
 </details>&nbsp;
