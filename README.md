@@ -117,7 +117,7 @@ I'm a Biochemical Engineer that love Data Analysis and programming.&nbsp;
 
 </details>&nbsp;  
 
-<details><summary><strong>My stats</strong></summary>  
+<details><summary><strong>My contributions</strong></summary>  
     <img src="https://github.com/bryrrea/bryrrea/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>  
 
 </details>&nbsp;
