@@ -18,34 +18,34 @@ I'm a Biochemical Engineer that love Data Analysis and programming.&nbsp;
 
 <details><summary><strong>My passions</strong></summary>  
 
-📓 Reading <br />
-💻 Technology <br />
-🧬 Biotechnology <br />
-⚙️ Engineering <br />
-⌨️ Programming <br />
-💡 Criativity <br />
-📉 Data Analysis <br />
-⚽️ Football (Soccer) <br />
+📓 Reading <br/>
+💻 Technology <br/>
+🧬 Biotechnology <br/>
+⚙️ Engineering <br/>
+⌨️ Programming <br/>
+💡 Criativity <br/>
+📉 Data Analysis <br/>
+⚽️ Football (Soccer) <br/>
 
 </details>&nbsp;
 
 <details><summary><strong>Hobbies</strong></summary>  
 
-⚽️ Football (watch and analyse) <br />
-📺 Series and movies <br />
-📖 Reading <br />
+⚽️ Football (watch and analyse) <br/>
+📺 Series and movies <br/>
+📖 Reading <br/>
 🎵 Music <br />
-💡 Learn new things <br />
+💡 Learn new things <br/>
 
 </details>&nbsp;
 
 <details><summary><strong>What am I reading now?</strong></summary>  
-    <div style="display: flex;">
+    <div style="display: flex; justify-content:space-between;">
         <figure style="text-align:center; flex:1;">
             <img src="src/book1.png" alt= "Summit Lake - Charles Donlea" width="200px"/>
             <figcaption styles="text-align: center;">Chapter 26</figcaption>
         </figure>
-        <figure style="text-align:center; flex:1">
+        <figure style="text-align:center; flex:1;">
             <img src="src/book2.png" alt= "Confident Data Skills - Kirill Eremenko" alt="Confident Data Skills" width="200px"/>
             <figcaption styles="text-align: center;">Chapter 2</figcaption>
         </figure>
