@@ -6,36 +6,36 @@ I'm a Biochemical Engineer that love Data Analysis and programming.&nbsp;
 
 <details><summary><strong>About me</strong></summary>
 
-🧔🏻 Pronouns: He/Him
-🇧🇷 Brazilian
-🧑🏻‍🎓 Biochemical Engineer since April (2022)
-🔎 Self-taught practioner
-💾 Open-source lover
-💬Ask me about: Excel, PowerBI, PPT and Pyhon (a bit)
-⚡️ Fun fact: I know I want something, but I don't know what!
+🧔🏻 Pronouns: He/Him <br />
+🇧🇷 Brazilian <br />
+🧑🏻‍🎓 Biochemical Engineer since April (2022) <br />
+🔎 Self-taught practioner <br />
+💾 Open-source lover <br />
+💬Ask me about: Excel, PowerBI, PPT and Pyhon (a bit) <br />
+⚡️ Fun fact: I know I want something, but I don't know what! <br />
 
 </details>&nbsp;
 
 <details><summary><strong>My passions</strong></summary>
 
-📓 Reading
-💻 Technology
-🧬 Biotechnology
-⚙️ Engineering
-⌨️ Programming
-💡 Criativity
-📉 Data Analysis
-⚽️ Football (Soccer)
+📓 Reading <br />
+💻 Technology <br />
+🧬 Biotechnology <br />
+⚙️ Engineering <br />
+⌨️ Programming <br />
+💡 Criativity <br />
+📉 Data Analysis <br />
+⚽️ Football (Soccer) <br />
 
 </details>&nbsp;
 
 <details><summary><strong>Hobbies</strong></summary>
 
-⚽️ Football (watch and analyse)
-📺 Series and movies
-📖 Reading
-🎵 Music
-💡 Learn new things
+⚽️ Football (watch and analyse) <br />
+📺 Series and movies <br />
+📖 Reading <br />
+🎵 Music <br />
+💡 Learn new things <br />
 
 </details>&nbsp;
 
@@ -134,10 +134,5 @@ I'm a Biochemical Engineer that love Data Analysis and programming.&nbsp;
 
 <details><summary><strong>My stats</strong></summary>  
     <img src="https://github-readme-stats-bryrrea.vercel.app/api?username=bryrrea&show_icons=true&hide_boarder=true" alt="My stats">
-
-</details>&nbsp;
-
-<details><summary><strong>My stats</strong></summary>  
-    <img "" alt="My stats">
 
 </details>&nbsp;
