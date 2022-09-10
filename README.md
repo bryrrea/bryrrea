@@ -6,13 +6,14 @@ I'm a Biochemical Engineer that love Data Analysis and programming.&nbsp;
 
 <details><summary><strong>About me</strong></summary>  
 
-🧔🏻 Pronouns: He/Him <br />
-🇧🇷 Brazilian <br />
-🧑🏻‍🎓 Biochemical Engineer since April (2022) <br />
-🔎 Self-taught practioner <br />
-💾 Open-source lover <br />
-💬Ask me about: Excel, PowerBI, PPT and Pyhon (a bit) <br />
-⚡️ Fun fact: I know I want something, but I don't know what! <br />
+🧔🏻 Pronouns: He/Him <br/>
+🇧🇷 Brazilian <br/>
+🧑🏻‍🎓 Biochemical Engineer since April (2022) <br/>
+🔎 Self-taught practioner <br/>
+💾 Open-source lover <br/>
+💬 Ask me about: Excel, PowerBI, PPT and Pyhon (a bit) <br/>
+⚡️ Fun fact: I know I want something, but I don't know what! <br/>
+🤔 Curious fact: I'm creating @devdsweb to share in social media what I'm learning and my learning progress. <br/>
 
 </details>&nbsp;
 
@@ -34,7 +35,7 @@ I'm a Biochemical Engineer that love Data Analysis and programming.&nbsp;
 ⚽️ Football (watch and analyse) <br/>
 📺 Series and movies <br/>
 📖 Reading <br/>
-🎵 Music <br />
+🎵 Music <br/>
 💡 Learn new things <br/>
 
 </details>&nbsp;
