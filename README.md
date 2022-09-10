@@ -4,6 +4,8 @@
 
 I'm a Biochemical Engineer that love Data Analysis and programming.&nbsp;
 
+<img src="https://visitor-badge.glitch.me/badge?page_id=bryrrea.bryrrea$left_color=#0F084B&right_color=#26408B" alt="Visitors"/>&nbsp;
+
 <details><summary><strong>About me</strong></summary>  
 
 🧔🏻 Pronouns: He/Him <br/>
