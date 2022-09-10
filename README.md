@@ -154,3 +154,10 @@ I'm a Biochemical Engineer that love Data Analysis and programming.&nbsp;
             <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev"/>
         </a>
     </div>
+</details>&nbsp;
+
+<details><summary><strong>Consider sending me a message</strong></summary>  
+    <a href="https://github.com/bryrrea/bryrrea/issues" target="_blank" style="display:flex; justify-content:center;">
+            <img src="https://img.icons8.com/dusk/344/book-and-pencil.png" alt="Guest Book" width="64px"/>
+    </a>  
+    <p style="text-align:justify;"> Consider sending me an encouraging message, feedback, your social network to chat, etc. Just click on the image!</p>
