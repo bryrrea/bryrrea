@@ -132,25 +132,25 @@ I'm a Biochemical Engineer that love Data Analysis and programming.&nbsp;
 
 <details><summary><strong>Reach me</strong></summary>  
     <div>
-        <a href="https://twitter.com/devdsweb" target="_blank">
+        <a target="_blank" href="https://twitter.com/devdsweb">
             <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
         </a>
-        <a href="https://linkedin.com/bryrrea" target="_blank">
+        <a target="_blank" href="https://linkedin.com/bryrrea">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
-        <a href="https://instagram.com/devdsweb" target="_blank">
+        <a target="_blank" href="https://instagram.com/devdsweb">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
         </a>
-        <a href="https://github.com/bryrrea" target="_blank">
+        <a target="_blank" href="https://github.com/bryrrea">
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
-        <a href="https://kaggle.com/bryrrea" target="_blank">
+        <a target="_blank" href="https://kaggle.com/bryrrea">
             <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
         </a>
-        <a href="https://medium.com/@bryrrea" target="_blank">
+        <a target="_blank" href="https://medium.com/@bryrrea">
             <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
         </a>
-        <a href="https://dev.to/bryrrea" target="_blank">
+        <a target="_blank" href="https://dev.to/bryrrea">
             <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev"/>
         </a>
     </div>
