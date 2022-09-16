@@ -43,13 +43,13 @@ I'm a Biochemical Engineer that love Data Analysis and programming.&nbsp;
 </details>&nbsp;
 
 <details><summary><strong>What am I reading now?</strong></summary>  
-    <div style="display: flex; justify-content:space-between;">
-        <figure style="text-align:center; flex:1;">
-            <img src="src/book1.png" alt= "Summit Lake - Charles Donlea" width="200px"/>
+    <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
+        <figure style="box-sizing: border-box; flex-basis: 50%; padding: 10px; flex: 1;">
+            <img src="src/book1.png" alt= "Summit Lake - Charles Donlea" width="100%"/>
             <figcaption style="text-align: center;">Chapter 26</figcaption>
         </figure>
-        <figure style="text-align:center; flex:1;">
-            <img src="src/book2.png" alt= "Confident Data Skills - Kirill Eremenko" alt="Confident Data Skills" width="200px"/>
+        <figure style="box-sizing: border-box; flex-basis: 50%; padding: 10px; flex: 1;">
+            <img src="src/book2.png" alt= "Confident Data Skills - Kirill Eremenko" alt="Confident Data Skills" width="100%"/>
             <figcaption style="text-align: center;">Chapter 2</figcaption>
         </figure>
     </div>
