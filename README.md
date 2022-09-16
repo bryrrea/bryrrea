@@ -43,13 +43,13 @@ I'm a Biochemical Engineer that love Data Analysis and programming.&nbsp;
 </details>&nbsp;
 
 <details><summary><strong>What am I reading now?</strong></summary>  
-    <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
-        <figure style="box-sizing: border-box; flex-basis: 50%; padding: 10px; flex: 1;">
-            <img src="src/book1.png" alt= "Summit Lake - Charles Donlea" width="100%"/>
+    <div style="display: flex; justify-content:space-between;">
+        <figure style="text-align:center; flex:1;">
+            <img src="src/book1.png" alt= "Summit Lake - Charles Donlea" width="200px"/>
             <figcaption style="text-align: center;">Chapter 26</figcaption>
         </figure>
-        <figure style="box-sizing: border-box; flex-basis: 50%; padding: 10px; flex: 1;">
-            <img src="src/book2.png" alt= "Confident Data Skills - Kirill Eremenko" alt="Confident Data Skills" width="100%"/>
+        <figure style="text-align:center; flex:1;">
+            <img src="src/book2.png" alt= "Confident Data Skills - Kirill Eremenko" alt="Confident Data Skills" width="200px"/>
             <figcaption style="text-align: center;">Chapter 2</figcaption>
         </figure>
     </div>
@@ -132,36 +132,32 @@ I'm a Biochemical Engineer that love Data Analysis and programming.&nbsp;
 
 <details><summary><strong>Reach me</strong></summary>  
     <div>
-        <a target="_blank" href="https://twitter.com/devdsweb">
+        <a href="https://twitter.com/devdsweb">
             <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
         </a>
-        <a target="_blank" href="https://linkedin.com/bryrrea">
+        <a href="https://linkedin.com/bryrrea">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
-        <a target="_blank" href="https://instagram.com/devdsweb">
+        <a href="https://instagram.com/devdsweb">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
         </a>
-        <a target="_blank" href="https://github.com/bryrrea">
+        <a href="https://github.com/bryrrea">
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
-        <a target="_blank" href="https://kaggle.com/bryrrea">
+        <a href="https://kaggle.com/bryrrea">
             <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
         </a>
-        <a target="_blank" href="https://medium.com/@bryrrea">
+        <a href="https://medium.com/@bryrrea">
             <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
         </a>
-        <a target="_blank" href="https://dev.to/bryrrea">
+        <a href="https://dev.to/bryrrea">
             <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev"/>
         </a>
     </div>
 </details>&nbsp;
 
 <details><summary><strong>Consider sending me a message</strong></summary>  
-    <p> Consider sending me an encouraging message, feedback, your social network to chat, etc. Just click on the image! Sign in my guestbook!
-        <p align="center">
-            <a href="https://gist.github.com/bryrrea/88d9c23b4606cbefe94748b02afb5ef5" target="_blank">
-                <img src="https://user-images.githubusercontent.com/61485514/190542751-4d0b7f63-f025-4894-8624-cbeb25113831.gif" alt="My guestbook image"/>
-            </a>
-        </p>    
-    </p>
-    
+    <a href="https://github.com/bryrrea/bryrrea/issues" target="_blank" style="display:flex; justify-content:center;">
+            <img src="https://img.icons8.com/dusk/344/book-and-pencil.png" alt="Guest Book" width="64px"/>
+    </a>  
+    <p style="text-align:justify;"> Consider sending me an encouraging message, feedback, your social network to chat, etc. Just click on the image!</p>
