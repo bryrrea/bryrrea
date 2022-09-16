@@ -153,7 +153,9 @@ I'm a Biochemical Engineer that love Data Analysis and programming.&nbsp;
 </details>&nbsp;
 
 <details><summary><strong>Consider sending me a message</strong></summary>  
-    <a href="https://github.com/bryrrea/bryrrea/issues" target="_blank" style="display:flex; justify-content:center;">
-            <img src="https://img.icons8.com/dusk/344/book-and-pencil.png" alt="Guest Book" width="64px"/>
-    </a>  
     <p style="text-align:justify;"> Consider sending me an encouraging message, feedback, your social network to chat, etc. Just click on the image!</p>
+    <p align="center">
+        <a href="https://gist.github.com/bryrrea/88d9c23b4606cbefe94748b02afb5ef5">
+            <img src="https://user-images.githubusercontent.com/61485514/190542751-4d0b7f63-f025-4894-8624-cbeb25113831.gif" alt="Click here to sign my guestbook!">
+        </a>
+    </p>
