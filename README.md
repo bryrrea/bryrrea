@@ -54,10 +54,10 @@ I'm a Biochemical Engineer that love Data Analysis and programming.&nbsp;
 
 <details><summary><strong>Techs and tools I know well</strong></summary>  
     <div class="icons">
-        <img src="https://img.icons8.com/dusk/64/ms-excel.png" alt= "Excel"/>
-        <img src="https://img.icons8.com/dusk/64/ms-powerpoint.png" alt= "PPT"/>
-        <img src="https://img.icons8.com/dusk/64/ms-word.png" alt= "Word"/>
-        <img src="https://img.icons8.com/dusk/64/power-bi.png" alt= "Power BI"/>
+        <img src="https://img.icons8.com/color/452/ms-excel.png" alt= "Excel" width="64px"/>
+        <img src="https://img.icons8.com/color/452/ms-powerpoint--v1.png" alt= "PPT" width="64px"/>
+        <img src="https://img.icons8.com/color/452/ms-word.png" alt= "Word" width="64px"/>
+        <img src="https://img.icons8.com/color/344/power-bi.png" alt= "Power BI" width="64px"/>
     </div>
 
 </details>&nbsp;
