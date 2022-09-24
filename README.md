@@ -4,7 +4,7 @@
 
 I'm a Biochemical Engineer that love Data Analysis and programming.&nbsp;
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=bryrrea.bryrrea$left_color=#0F084B&right_color=#26408B" alt="Visitors"/>&nbsp;
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=bryrrea.bryrrea&style=for-the-badge&color=100007&lcolor=2f2732&cache=on" alt="Visitors"/>&nbsp;
 
 <details><summary><strong>About me</strong></summary>  
 
