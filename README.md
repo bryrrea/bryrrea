@@ -1,8 +1,8 @@
 # Hello, world!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="8%"></h1>
 
-<img src="src/name.gif"/>
+<img src="src/mygif.gif"/>
 
-I'm a Biochemical Engineer that love Data Analysis and programming.&nbsp;
+I'm a Biochemical Engineer that love Data Analysis, web development, technology and programming.&nbsp;
 
 <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=bryrrea.bryrrea&style=for-the-badge&color=100007&lcolor=2f2732&cache=on" alt="Visitors"/>&nbsp;
 
@@ -11,11 +11,11 @@ I'm a Biochemical Engineer that love Data Analysis and programming.&nbsp;
 🧔🏻 Pronouns: He/Him <br/>
 🇧🇷 Brazilian <br/>
 🧑🏻‍🎓 Biochemical Engineer since April (2022) <br/>
-🔎 Self-taught practioner <br/>
+🔎 Self-taught practitioner <br/>
 💾 Open-source lover <br/>
-💬 Ask me about: Excel, PowerBI, PPT and Pyhon (a bit) <br/>
+💬 Ask me about: Excel, PowerBI, PPT and Python (a bit) <br/>
 ⚡️ Fun fact: I know I want something, but I don't know what! <br/>
-🤔 Curious fact: I'm creating @devdsweb to share in social media what I'm learning and my learning progress. <br/>
+🤔 Curious fact: I'm creating @dotcodevlab to share in social media what I'm learning and my learning progress. <br/>
 
 </details>&nbsp;
 
@@ -26,7 +26,7 @@ I'm a Biochemical Engineer that love Data Analysis and programming.&nbsp;
 🧬 Biotechnology <br/>
 ⚙️ Engineering <br/>
 ⌨️ Programming <br/>
-💡 Criativity <br/>
+💡 Creativity <br/>
 📉 Data Analysis <br/>
 ⚽️ Football (Soccer) <br/>
 
@@ -34,7 +34,7 @@ I'm a Biochemical Engineer that love Data Analysis and programming.&nbsp;
 
 <details><summary><strong>Hobbies</strong></summary>  
 
-⚽️ Football (watch and analyse) <br/>
+⚽️ Football (watch and analyze) <br/>
 📺 Series and movies <br/>
 📖 Reading <br/>
 🎵 Music <br/>
