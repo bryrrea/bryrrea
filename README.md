@@ -1,10 +1,9 @@
+[![visitors](https://visitor-badge-bryrrea.vercel.app/p/visitor-badge?color=blue)](https://github.com/bryrrea/bryrrea)
 # Hello, world!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="8%"></h1>
 
 <img src="src/mygif.gif"/>
 
 I'm a Biochemical Engineer that love Data Analysis, web development, technology and programming.&nbsp;
-
-<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=bryrrea.bryrrea&style=for-the-badge&color=100007&lcolor=2f2732&cache=on" alt="Visitors"/>&nbsp;
 
 <details><summary><strong>About me</strong></summary>  
 
@@ -117,7 +116,7 @@ I'm a Biochemical Engineer that love Data Analysis, web development, technology 
 </details>&nbsp;
 
 <details><summary><strong>My week</strong></summary>  
-    <img src="https://github-readme-stats-bryrrea.vercel.app/api/wakatime/?username=bryrrea&layout=compact&theme=default&link=https://www.github.com/bryrrea/github-readme-stats" alt="My weekly status"/>
+    <img src="https://github-readme-stats-bryrrea.vercel.app/api/wakatime/?username=bryrrea&theme=default&link=https://www.github.com/bryrrea/github-readme-stats" alt="My weekly status"/>
 
 </details>&nbsp;
 
