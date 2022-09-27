@@ -1,4 +1,4 @@
-[![visitors](https://visitor-badge-bryrrea.vercel.app/p/visitor-badge?color=blue)](https://github.com/bryrrea/bryrrea)
+![visitors](https://visitor-badge-bryrrea.vercel.app/p/bryrrea?color=blue)
 # Hello, world!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="8%"></h1>
 
 <img src="src/mygif.gif"/>
