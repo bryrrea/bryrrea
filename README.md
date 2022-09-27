@@ -111,17 +111,11 @@ I'm a Biochemical Engineer that love Data Analysis, web development, technology 
 </details>&nbsp;
 
 <details><summary><strong>My stats</strong></summary>  
+    <img src="https://activity-graph.herokuapp.com/graph?username=bryrrea&theme=react-dark&hide_border=true&area=true" alt="Contribution chart"/>
     <img src="https://github-readme-stats-bryrrea.vercel.app/api?username=bryrrea&show_icons=true&hide_boarder=true&theme=dracula" alt="My stats">
-
-</details>&nbsp;
-
-<details><summary><strong>My week</strong></summary>  
     <img src="https://github-readme-stats-bryrrea.vercel.app/api/wakatime/?username=bryrrea&theme=default&link=https://www.github.com/bryrrea/github-readme-stats" alt="My weekly status"/>
-
-</details>&nbsp;
-
-<details><summary><strong>My contributions</strong></summary>  
-    <img src="https://github.com/bryrrea/bryrrea/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>  
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryrrea&theme=chartreuse-dark" alt="My streak status"/>
+    <img src="https://github-readme-stats-bryrrea.vercel.app/api/top-langs/?username=bryrrea&&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My top languages"/>
 
 </details>&nbsp;
 
